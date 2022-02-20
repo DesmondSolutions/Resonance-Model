@@ -1,0 +1,2 @@
+Frequency          Spectral_Power
+12.0              4.689458437500359E-6
